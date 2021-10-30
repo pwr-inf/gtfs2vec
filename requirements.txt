@@ -1,0 +1,22 @@
+jupyter==1.0.0
+h3==3.7.2
+folium==0.12.1
+pandas==1.2.3
+geopandas==0.9.0
+geojson==2.5.0
+gtfs_kit==5.0.2
+tox==3.23.0
+selenium==3.141.0
+tqdm==4.60.0
+Pillow==8.2.0
+scikit-learn==0.24.1
+plotly==4.14.3
+skope-rules==1.0.1
+matplotlib==3.4.2
+hdbscan==0.8.27
+umap-learn==0.5.1
+osmnx==1.1.1
+
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu
+pytorch-lightning==1.2.8

@@ -1,0 +1,24 @@
+# local python venv
+.python-version
+
+# python trash
+__pycache__/
+
+# notebooks
+.ipynb_checkpoints/
+_*.ipynb
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Selenium
+ghostdriver.log
+
+# Pytorch lightning
+lightning_logs/
+
+# Cache
+cache
